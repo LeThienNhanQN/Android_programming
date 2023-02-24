@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "358758662492",
+    "project_id": "project-doancoso3",
+    "storage_bucket": "project-doancoso3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:358758662492:android:bc196c924c0b171bc4c199",
+        "android_client_info": {
+          "package_name": "vku.ltnhan.project_doancoso3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "358758662492-mlh233f59bjjaq7gfitf5taed5jrcesv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALh4JguH6ZykcWxuj-tZ_jvDLkJAS6O_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "358758662492-mlh233f59bjjaq7gfitf5taed5jrcesv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
