@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "536812350043",
+    "firebase_url": "https://iot23-ec6a7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot23-ec6a7",
+    "storage_bucket": "iot23-ec6a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536812350043:android:08f718b61ac65549f9ed7e",
+        "android_client_info": {
+          "package_name": "com.ldnhat.ControlDevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536812350043-2kvca8kgr2jpaptcsdoelmh6n62g3ent.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrvztn_K4wt5qb4KWFRZUsqw-zumsPzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536812350043-2kvca8kgr2jpaptcsdoelmh6n62g3ent.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536812350043:android:a088cc0a83cfadebf9ed7e",
+        "android_client_info": {
+          "package_name": "com.ldnhat.controldevice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536812350043-2kvca8kgr2jpaptcsdoelmh6n62g3ent.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrvztn_K4wt5qb4KWFRZUsqw-zumsPzQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536812350043-2kvca8kgr2jpaptcsdoelmh6n62g3ent.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
